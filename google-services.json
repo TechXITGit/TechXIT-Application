@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720388907069",
+    "project_id": "techxitapp",
+    "storage_bucket": "techxitapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720388907069:android:460abac41256d3b3034a54",
+        "android_client_info": {
+          "package_name": "com.techx.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720388907069-ash3b157b5af1qkr637pvifmvg3p3h82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfdZE-seY_-7mS0qgE9jTWWYqP1BLL5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720388907069-ash3b157b5af1qkr637pvifmvg3p3h82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
